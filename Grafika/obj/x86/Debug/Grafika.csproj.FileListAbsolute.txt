@@ -1,0 +1,9 @@
+C:\Rabotna okolina\Grafika\Grafika\bin\Debug\Grafika.exe
+C:\Rabotna okolina\Grafika\Grafika\bin\Debug\Grafika.pdb
+C:\Rabotna okolina\Grafika\Grafika\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Rabotna okolina\Grafika\Grafika\obj\x86\Debug\Grafika.Form1.resources
+C:\Rabotna okolina\Grafika\Grafika\obj\x86\Debug\Grafika.Properties.Resources.resources
+C:\Rabotna okolina\Grafika\Grafika\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Rabotna okolina\Grafika\Grafika\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Rabotna okolina\Grafika\Grafika\obj\x86\Debug\Grafika.exe
+C:\Rabotna okolina\Grafika\Grafika\obj\x86\Debug\Grafika.pdb
